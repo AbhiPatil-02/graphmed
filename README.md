@@ -1,4 +1,4 @@
-"# GraphMed" 
+# GraphMed
 
 GraphMed is a phased research pipeline for **graph-based clinical reasoning** over longitudinal patient records.  
 It combines:
